@@ -46,11 +46,6 @@ The notebook includes:
 
 > Action and thriller are the most common genres. Movies with runtimes between 90–120 minutes tend to be rated higher. Disney+ and Netflix dominate streaming availability among popular titles.
 
-## Project Status
-
-This is a personal project built to strengthen my data analysis and storytelling skills. Possible next steps include:
-- Analyzing TV shows in addition to movies
-- Extending it with audience reviews or regional filters
 
 ## Author
 
